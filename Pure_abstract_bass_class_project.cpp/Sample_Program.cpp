@@ -4,7 +4,7 @@
 using namespace std;
 
 //This is a sample program that shows the working of the Circle and Rectangle classes
-//Matanda Hillary Phiri
+//Matanda Hillary Phiri.
 
 int main()
 {
